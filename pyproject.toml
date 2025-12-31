@@ -1,0 +1,10 @@
+[project]
+name = "test-remote-mcp-server"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastmap>=0.0.12",
+    "fastmcp>=2.14.1",
+]
